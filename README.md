@@ -119,7 +119,7 @@ needed at:
     https://mycloud.rackspace.com/a/sklearn/
 
 
-Thanks
+Thanks for being here
 ------
 
 We would like to thank Rackspace for supporting the scikit-learn project by
